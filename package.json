@@ -24,7 +24,7 @@
     "@remix-run/node": "0.0.0-experimental-9b7f37c9a",
     "@remix-run/react": "0.0.0-experimental-9b7f37c9a",
     "@remix-run/serve": "0.0.0-experimental-9b7f37c9a",
-    "@shopify/shopify-api": "^2.0.0",
+    "@shopify/shopify-api": "^6.0.2",
     "classnames": "^2.3.1",
     "decimal.js": "^10.3.1",
     "isbot": "^3.5.0",
